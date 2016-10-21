@@ -1,4 +1,4 @@
-FROM rentzsch:webobjects
+FROM rentzsch/webobjects
 
 COPY *.jar /opt/Local/Library/WebObjects/Extensions/
 
